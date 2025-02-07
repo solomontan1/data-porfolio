@@ -6,3 +6,11 @@ body {
 h1 {
     color: #333;
 }
+.profile-pic {
+    width: 200px;  /* Adjust size */
+    height: auto;
+    border-radius: 50%;  /* Makes the image circular */
+    display: block;
+    margin: 20px auto;  /* Centers the image */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Adds a shadow */
+}
