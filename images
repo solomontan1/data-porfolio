@@ -1,3 +1,4 @@
 git add "C:\Users\Solomon\OneDrive\Pictures\me.JPG"
+git add "C:\Users\Solomon\OneDrive\Pictures\Saved Pictures\hospital.jpg"
 git commit -m "Added my photo"
 git push origin main
